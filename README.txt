@@ -23,4 +23,9 @@ Run django project:
 python manage.py runserver (0.0.0.0:8000 specify the server and port)
 
 ================================================================================================================================
+Set User Model:
+---------------
 
+Open Settings.py in the root project(profiles_project) go to the last and the create
+
+AUTH_USER_MODEL = 'profiles_api.UserProfile'
