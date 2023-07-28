@@ -22,6 +22,8 @@ Run django project:
 -------------------
 python manage.py runserver (0.0.0.0:8000 specify the server and port)
 
+python manage.py runserver 5555 (5555 is a port number)
+
 ================================================================================================================================
 Set User Model:
 ---------------
